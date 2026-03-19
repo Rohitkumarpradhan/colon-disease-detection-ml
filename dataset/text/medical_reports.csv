@@ -1,0 +1,21 @@
+report,label
+patient shows colon inflammation,1
+possible colon tumor detected,1
+abnormal colon tissue growth observed,1
+colon biopsy indicates cancer cells,1
+polyp detected in colon during colonoscopy,1
+colon infection with abnormal cells,1
+malignant tumor found in colon tissue,1
+colon bleeding and abnormal growth observed,1
+severe colon inflammation detected,1
+colon mass detected in scan,1
+healthy colon tissue observed,0
+normal colon examination result,0
+no abnormality found in colon,0
+colon tissue appears healthy,0
+routine colon screening normal,0
+no signs of colon disease,0
+patient colon scan normal,0
+colonoscopy shows normal colon walls,0
+healthy colon structure detected,0
+no inflammation in colon,0
