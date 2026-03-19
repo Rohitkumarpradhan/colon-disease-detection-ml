@@ -223,6 +223,6 @@ Possible improvements for this project include:
 
 
 
-## License
+## ⭐ If You Found This Useful
 
-This project is intended for **educational and research purposes only**.
+Give this repository a ⭐ and support the project!
