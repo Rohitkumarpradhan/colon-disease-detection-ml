@@ -222,10 +222,6 @@ Possible improvements for this project include:
 
 
 
-B.Tech Computer Science and Engineering
-Machine Learning Laboratory Project
-
----
 
 ## License
 
